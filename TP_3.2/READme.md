@@ -14,7 +14,7 @@ Before running the notebook, ensure you have the following installed on your sys
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/power8341/Big_Data.git
    cd your-repository
    ```
 2. Install required Python libraries:
@@ -23,9 +23,9 @@ Before running the notebook, ensure you have the following installed on your sys
    ```
    *(If a `requirements.txt` file is not provided, ensure required dependencies like `pyhive`, `pandas`, etc., are installed manually.)*
 
-3. Start Jupyter Notebook:
+3. Start colab Notebook:
    ```sh
-   jupyter notebook
+   colab notebook
    ```
    Then open `TP_3_2_Hadoop_and_Hive.ipynb` in your browser.
 
